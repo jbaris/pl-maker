@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/108/trunk/pl-maker-parent/pl-maker-backend/src/main/resources
+END
+application.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/120/trunk/pl-maker-parent/pl-maker-backend/src/main/resources/application.properties
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/127/trunk/pl-maker-parent/pl-maker-backend/src/main/resources/log4j.xml
+END
+Messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/123/trunk/pl-maker-parent/pl-maker-backend/src/main/resources/Messages.properties
+END
+ehcache.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/86/trunk/pl-maker-parent/pl-maker-backend/src/main/resources/ehcache.xml
+END

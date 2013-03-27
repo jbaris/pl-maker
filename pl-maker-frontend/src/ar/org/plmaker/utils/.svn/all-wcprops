@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/109/trunk/pl-maker-parent/pl-maker-frontend/src/ar/org/plmaker/utils
+END
+KSoap2Template.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/123/trunk/pl-maker-parent/pl-maker-frontend/src/ar/org/plmaker/utils/KSoap2Template.java
+END
+ServiceAccessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/110/trunk/pl-maker-parent/pl-maker-frontend/src/ar/org/plmaker/utils/ServiceAccessException.java
+END
+AbstractResponseMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/123/trunk/pl-maker-parent/pl-maker-frontend/src/ar/org/plmaker/utils/AbstractResponseMapper.java
+END
+CollectionKvmSerializable.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/123/trunk/pl-maker-parent/pl-maker-frontend/src/ar/org/plmaker/utils/CollectionKvmSerializable.java
+END
+ResponseMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/110/trunk/pl-maker-parent/pl-maker-frontend/src/ar/org/plmaker/utils/ResponseMapper.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/127/trunk/pl-maker-parent/pl-maker-frontend/src/ar/org/plmaker/utils/Utils.java
+END
+RequestPropertiesSetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/112/trunk/pl-maker-parent/pl-maker-frontend/src/ar/org/plmaker/utils/RequestPropertiesSetter.java
+END

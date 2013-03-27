@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>ar.org.plmaker</groupId>
+	<artifactId>pl-maker-parent</artifactId>
+	<version>1.0</version>
+	<packaging>pom</packaging>
+	<name>pl-maker-parent</name>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<org.springframework.version>3.0.5.RELEASE</org.springframework.version>
+		<apache-cxf.version>2.4.1</apache-cxf.version>
+		<slf4j.version>1.6.1</slf4j.version>
+		<log4j.version>1.2.16</log4j.version>
+		<junit.version>4.7</junit.version>
+		<org.hibernate.version>3.6.9.Final</org.hibernate.version>
+	</properties>
+
+	<modules>
+		<module>pl-maker-entities</module>
+		<module>pl-maker-services</module>
+		<module>pl-maker-backend</module>
+		<module>pl-maker-frontend</module>
+  	</modules>
+
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>2.3.2</version>
+				<configuration>
+					<source>1.6</source>
+					<target>1.6</target>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+
+</project>

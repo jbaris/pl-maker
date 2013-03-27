@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/86/trunk/pl-maker-parent/pl-maker-backend/src/main/java/ar/org/plmaker/aux/impl
+END
+ClassPathLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/123/trunk/pl-maker-parent/pl-maker-backend/src/main/java/ar/org/plmaker/aux/impl/ClassPathLoader.java
+END
+ProgressMonitorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/123/trunk/pl-maker-parent/pl-maker-backend/src/main/java/ar/org/plmaker/aux/impl/ProgressMonitorImpl.java
+END
+FsHelperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/123/trunk/pl-maker-parent/pl-maker-backend/src/main/java/ar/org/plmaker/aux/impl/FsHelperImpl.java
+END
+SongPlayerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/127/trunk/pl-maker-parent/pl-maker-backend/src/main/java/ar/org/plmaker/aux/impl/SongPlayerImpl.java
+END
+PlayListExporterImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/123/trunk/pl-maker-parent/pl-maker-backend/src/main/java/ar/org/plmaker/aux/impl/PlayListExporterImpl.java
+END

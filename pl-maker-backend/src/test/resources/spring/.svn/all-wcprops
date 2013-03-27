@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/86/trunk/pl-maker-parent/pl-maker-backend/src/test/resources/spring
+END
+spring-test-helpers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/123/trunk/pl-maker-parent/pl-maker-backend/src/test/resources/spring/spring-test-helpers.xml
+END
+applicationTestContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/75/trunk/pl-maker-parent/pl-maker-backend/src/test/resources/spring/applicationTestContext.xml
+END

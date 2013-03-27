@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/108/trunk/pl-maker-parent/pl-maker-backend/src/main/resources/hibernate
+END
+PlayList.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/108/trunk/pl-maker-parent/pl-maker-backend/src/main/resources/hibernate/PlayList.hbm.xml
+END
+Song.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/108/trunk/pl-maker-parent/pl-maker-backend/src/main/resources/hibernate/Song.hbm.xml
+END
+hibernate.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/91/trunk/pl-maker-parent/pl-maker-backend/src/main/resources/hibernate/hibernate.properties
+END

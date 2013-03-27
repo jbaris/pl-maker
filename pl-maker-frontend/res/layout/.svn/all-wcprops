@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/104/trunk/pl-maker-parent/pl-maker-frontend/res/layout
+END
+edit_playlist.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/114/trunk/pl-maker-parent/pl-maker-frontend/res/layout/edit_playlist.xml
+END
+view_playlist_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/115/trunk/pl-maker-parent/pl-maker-frontend/res/layout/view_playlist_row.xml
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/123/trunk/pl-maker-parent/pl-maker-frontend/res/layout/main.xml
+END
+select_directory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/123/trunk/pl-maker-parent/pl-maker-frontend/res/layout/select_directory.xml
+END
+select_playlist_export_type.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/123/trunk/pl-maker-parent/pl-maker-frontend/res/layout/select_playlist_export_type.xml
+END
+view_playlist.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/115/trunk/pl-maker-parent/pl-maker-frontend/res/layout/view_playlist.xml
+END
+export_playlist.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/115/trunk/pl-maker-parent/pl-maker-frontend/res/layout/export_playlist.xml
+END
+menu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/104/trunk/pl-maker-parent/pl-maker-frontend/res/layout/menu.xml
+END
+new_playlist.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/109/trunk/pl-maker-parent/pl-maker-frontend/res/layout/new_playlist.xml
+END
+select_playlist.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/114/trunk/pl-maker-parent/pl-maker-frontend/res/layout/select_playlist.xml
+END
+select_directory_row.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/115/trunk/pl-maker-parent/pl-maker-frontend/res/layout/select_directory_row.xml
+END

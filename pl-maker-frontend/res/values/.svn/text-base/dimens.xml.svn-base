@@ -1,0 +1,4 @@
+
+    <resources>
+        <dimen name="edit_playlist_buttons_height">70dp</dimen>
+    </resources>

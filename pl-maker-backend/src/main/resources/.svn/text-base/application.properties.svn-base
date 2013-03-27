@@ -1,2 +1,0 @@
-storeDir=./db/
-dataSourceUrl=jdbc:hsqldb:file:${storeDir}

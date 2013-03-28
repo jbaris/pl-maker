@@ -16,7 +16,8 @@ To run the server:
 
 **On Linux, run:** 
 
-    $ java -jar ./pl-maker-backend/target/pl-maker-backend-1.0.jar
+    $ cd ./pl-maker-backend/target
+    $ java -jar pl-maker-backend-1.0.jar --classpath=./lib/
     
 **On Windows, run:** 
 
